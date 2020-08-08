@@ -1,2 +1,2 @@
-# doorstep
-Doorstep is an android shopping application
+# Doorstep - Online Supermarket
+Doorstep is an Android Groceries Application.

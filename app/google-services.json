@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "PROJECT_NUMBER",
+    "firebase_url": "https://PROJECT_NAME.firebaseio.com",
+    "project_id": "PROJECT_NAME",
+    "storage_bucket": "PROJECT_NAME.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371175XXXXXXX:android:144de79cd08dXXXXXXXX",
+        "android_client_info": {
+          "package_name": "com.icarus.groc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371175533190-mqieasl06h81cr6tblb7XXXXXXXXXX.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icarus.groc",
+            "certificate_hash": "0a2ddd13a251ae9fcb1c3d26aa2b06XXXXXXX"
+          }
+        },
+        {
+          "client_id": "371175533190-3u4kpplgjrp5bu0ml3XXXXXXXXXXX.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9rJcA3nCgkzClIczfsfzKM9XXXXXXXX"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371175533190-3u4kpplgjrp5bu0ml3XXXXXXXXXX.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
